@@ -161,7 +161,8 @@ input[type="text"] {
 .left-content {
   margin-top: 30%;
   margin-bottom: 30%;
-  margin-left: 25%;
+  padding: 0 15px;
+  margin-left: 20%;
 }
 .left-content h2 {
   font-family: "Inter";
